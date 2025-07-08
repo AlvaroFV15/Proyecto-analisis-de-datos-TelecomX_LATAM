@@ -13,8 +13,8 @@ La evasión de clientes representa una pérdida significativa de ingresos y es u
 ## Estructura del Repositorio
 
 * `README.md`: Este archivo, que proporciona una visión general del proyecto.
-* `[nombre_de_tu_notebook].ipynb`: El notebook principal de Jupyter que contiene todo el código de análisis, visualizaciones, conclusiones e informe final.
-* `data/`
+* `Alvaro Figueroa TelecomX_LATAM.ipynb`: El notebook principal de Jupyter que contiene todo el código de análisis, visualizaciones, conclusiones e informe final.
+* `TeleComX_Data.json`
 ## Fases del Proyecto
 
 El análisis se estructura en las siguientes fases clave:
